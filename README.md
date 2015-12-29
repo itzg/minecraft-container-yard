@@ -1,5 +1,7 @@
 # Minecraft Container Yard
 
+[![Join the chat at https://gitter.im/itzg/minecraft-container-yard](https://badges.gitter.im/itzg/minecraft-container-yard.svg)](https://gitter.im/itzg/minecraft-container-yard?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Provides a web based "Minecraft Server as a Service" (MCaaS?) to deploy Minecraft server containers on any 
 Docker Swarm cluster or standalone Engine instance.
 
